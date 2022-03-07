@@ -32,4 +32,6 @@
 #include <libuutil.h>
 #include <libuutil_impl.h>
 
+int stuff() {}
+
 #endif	/* _LIBUUTIL_COMMON_H */
